@@ -1,0 +1,1 @@
+This is a sample project to demonstrate the bug described in [this StackOverflow post](https://stackoverflow.com/questions/78110729/uihostingconfiguration-breaks-state-var) and [this Github issue](https://github.com/planetary-social/nos/issues/873).
